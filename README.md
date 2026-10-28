@@ -236,4 +236,4 @@ The project is an independent implementation for educational purposes and is not
 
 ## Author
 
-Developed as a cybersecurity and agentic AI learning project, focusing on incident investigation, tool orchestration, prompt injection defense, and human-controlled response actions.
+This project was developed as part of the Advanced Agentic AI Systems Engineering Program at SDAIA Academy, as a practical application of agentic AI concepts. It applies these concepts to building an intelligent agent for cybersecurity incident investigation, security log analysis, tool orchestration, and the implementation of human approval mechanisms and security controls.
