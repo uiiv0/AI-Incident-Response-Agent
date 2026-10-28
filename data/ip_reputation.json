@@ -1,0 +1,54 @@
+{
+  "203.0.113.130": {
+    "reputation": "malicious",
+    "note": "known credential-stuffing source"
+  },
+  "203.0.113.44": {
+    "reputation": "malicious",
+    "note": "known credential-stuffing source"
+  },
+  "198.51.100.8": {
+    "reputation": "malicious",
+    "note": "known credential-stuffing source"
+  },
+  "203.0.113.10": {
+    "reputation": "malicious",
+    "note": "phishing infrastructure"
+  },
+  "203.0.113.25": {
+    "reputation": "malicious",
+    "note": "phishing infrastructure"
+  },
+  "198.51.100.99": {
+    "reputation": "malicious",
+    "note": "phishing infrastructure"
+  },
+  "203.0.113.91": {
+    "reputation": "malicious",
+    "note": "known C2 server"
+  },
+  "198.51.100.56": {
+    "reputation": "malicious",
+    "note": "known C2 server"
+  },
+  "198.51.100.140": {
+    "reputation": "malicious",
+    "note": "known C2 server"
+  },
+  "10.20.0.50": {
+    "reputation": "internal",
+    "note": "corporate network"
+  },
+  "203.0.113.77": {
+    "reputation": "malicious",
+    "note": "known brute-force source"
+  },
+  "198.51.100.201": {
+    "reputation": "malicious",
+    "note": "known brute-force source"
+  },
+  "198.51.100.23": {
+    "reputation": "malicious",
+    "note": "known brute-force source"
+  }
+}

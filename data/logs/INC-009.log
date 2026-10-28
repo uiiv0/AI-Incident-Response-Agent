@@ -1,0 +1,19 @@
+2026-10-27T09:00:00 src=10.20.1.155 host=vpn01 user=khalid event=login status=success ua=Mozilla/5.0
+2026-10-27T09:00:01 src=10.20.1.36 host=ws-huda user=huda event=http_request dest=198.51.100.140 domain=update-check-3.example method=POST bytes=128 status=allowed ua=curl/7.68.0
+2026-10-27T09:01:02 src=10.20.1.36 host=ws-huda user=huda event=http_request dest=198.51.100.140 domain=update-check-3.example method=POST bytes=128 status=allowed ua=curl/7.68.0
+2026-10-27T09:02:01 src=10.20.1.36 host=ws-huda user=huda event=http_request dest=198.51.100.140 domain=update-check-3.example method=POST bytes=128 status=allowed ua=curl/7.68.0
+2026-10-27T09:03:00 src=10.20.1.36 host=ws-huda user=huda event=http_request dest=198.51.100.140 domain=update-check-3.example method=POST bytes=128 status=allowed ua=curl/7.68.0
+2026-10-27T09:04:00 src=10.20.1.36 host=ws-huda user=huda event=http_request dest=198.51.100.140 domain=update-check-3.example method=POST bytes=128 status=allowed ua=curl/7.68.0
+2026-10-27T09:05:00 src=10.20.1.36 host=ws-huda user=huda event=http_request dest=198.51.100.140 domain=update-check-3.example method=POST bytes=128 status=allowed ua=curl/7.68.0
+2026-10-27T09:05:04 src=10.20.1.172 host=vpn01 user=omar event=login status=success ua=Mozilla/5.0
+2026-10-27T09:06:00 src=10.20.1.36 host=ws-huda user=huda event=http_request dest=198.51.100.140 domain=update-check-3.example method=POST bytes=128 status=allowed ua=curl/7.68.0
+2026-10-27T09:07:01 src=10.20.1.36 host=ws-huda user=huda event=http_request dest=198.51.100.140 domain=update-check-3.example method=POST bytes=128 status=allowed ua=curl/7.68.0
+2026-10-27T09:07:05 src=10.20.1.167 host=vpn01 user=faisal event=login status=success ua=Mozilla/5.0
+2026-10-27T09:08:00 src=10.20.1.36 host=ws-huda user=huda event=http_request dest=198.51.100.140 domain=update-check-3.example method=POST bytes=128 status=allowed ua=curl/7.68.0
+2026-10-27T09:09:00 src=10.20.1.36 host=ws-huda user=huda event=http_request dest=198.51.100.140 domain=update-check-3.example method=POST bytes=128 status=allowed ua=curl/7.68.0
+2026-10-27T09:10:01 src=10.20.1.36 host=ws-huda user=huda event=http_request dest=198.51.100.140 domain=update-check-3.example method=POST bytes=128 status=allowed ua=curl/7.68.0
+2026-10-27T09:11:02 src=10.20.1.36 host=ws-huda user=huda event=http_request dest=198.51.100.140 domain=update-check-3.example method=POST bytes=128 status=allowed ua=curl/7.68.0
+2026-10-27T09:12:00 src=10.20.1.36 host=ws-huda user=huda event=http_request dest=198.51.100.140 domain=update-check-3.example method=POST bytes=128 status=allowed ua=curl/7.68.0
+2026-10-27T09:13:00 src=10.20.1.36 host=ws-huda user=huda event=http_request dest=198.51.100.140 domain=update-check-3.example method=POST bytes=128 status=allowed ua=curl/7.68.0
+2026-10-27T09:18:18 src=10.20.1.35 host=vpn01 user=lina event=login status=success ua=Mozilla/5.0
+2026-10-27T09:20:56 src=10.20.1.16 host=vpn01 user=sara event=login status=success ua=Mozilla/5.0

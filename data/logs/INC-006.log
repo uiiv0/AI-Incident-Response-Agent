@@ -1,0 +1,8 @@
+2026-10-27T09:00:30 host=mail01 event=email_delivered user=faisal sender=it-support@account-verify-3.example subject="Urgent: verify your account now" url=http://account-verify-3.example/login
+2026-10-27T09:00:46 src=10.20.1.128 host=vpn01 user=lina event=login status=success ua=Mozilla/5.0
+2026-10-27T09:05:44 src=10.20.1.166 host=vpn01 user=sara event=login status=success ua=Mozilla/5.0
+2026-10-27T09:13:10 src=10.20.1.181 host=vpn01 user=lina event=login status=success ua=Mozilla/5.0
+2026-10-27T09:15:00 src=10.20.1.184 host=ws-faisal user=faisal event=http_request dest=198.51.100.99 domain=account-verify-3.example method=GET path=/login status=allowed ua=Mozilla/5.0
+2026-10-27T09:15:03 src=10.20.1.184 host=ws-faisal user=faisal event=http_request dest=198.51.100.99 domain=account-verify-3.example method=GET path=/login.php status=allowed ua=Mozilla/5.0
+2026-10-27T09:15:12 src=10.20.1.82 host=vpn01 user=maha event=login status=success ua=Mozilla/5.0
+2026-10-27T09:16:51 src=10.20.1.25 host=vpn01 user=noura event=login status=success ua=Mozilla/5.0

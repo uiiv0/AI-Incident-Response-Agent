@@ -1,0 +1,17 @@
+2026-10-27T09:01:00 src=198.51.100.8 host=vpn01 user=noura event=login status=failed ua=python-requests/2.31
+2026-10-27T09:01:05 src=198.51.100.8 host=vpn01 user=noura event=login status=failed ua=python-requests/2.31
+2026-10-27T09:01:10 src=198.51.100.8 host=vpn01 user=noura event=login status=failed ua=python-requests/2.31
+2026-10-27T09:01:14 src=198.51.100.8 host=vpn01 user=noura event=login status=failed ua=python-requests/2.31
+2026-10-27T09:01:23 src=198.51.100.8 host=vpn01 user=noura event=login status=failed ua=python-requests/2.31
+2026-10-27T09:01:27 src=198.51.100.8 host=vpn01 user=noura event=login status=failed ua=python-requests/2.31
+2026-10-27T09:01:35 src=198.51.100.8 host=vpn01 user=noura event=login status=failed ua=python-requests/2.31
+2026-10-27T09:01:44 src=198.51.100.8 host=vpn01 user=noura event=login status=failed ua=python-requests/2.31
+2026-10-27T09:01:48 src=198.51.100.8 host=vpn01 user=noura event=login status=failed ua=python-requests/2.31
+2026-10-27T09:01:51 src=198.51.100.8 host=vpn01 user=noura event=login status=success ua=python-requests/2.31
+2026-10-27T09:02:29 src=10.20.1.40 host=vpn01 user=reem event=login status=success ua=Mozilla/5.0
+2026-10-27T09:02:36 src=198.51.100.8 host=mail01 user=noura event=mailbox_rule_created status=success rule="forward all mail to external address"
+2026-10-27T09:03:06 src=198.51.100.8 host=fileserver01 user=noura event=bulk_download status=success files=412
+2026-10-27T09:14:16 src=10.20.1.52 host=vpn01 user=dana event=login status=success ua=Mozilla/5.0
+2026-10-27T09:15:19 src=10.20.1.83 host=vpn01 user=tariq event=login status=success ua=Mozilla/5.0
+2026-10-27T09:16:53 src=10.20.1.97 host=vpn01 user=salem event=login status=success ua=Mozilla/5.0
+2026-10-27T09:19:36 src=10.20.1.86 host=vpn01 user=reem event=login status=success ua=Mozilla/5.0

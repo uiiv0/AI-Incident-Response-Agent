@@ -1,0 +1,209 @@
+{
+  "hosts": {
+    "dc01": {
+      "role": "domain controller",
+      "critical": true
+    },
+    "mail01": {
+      "role": "mail gateway",
+      "critical": true
+    },
+    "vpn01": {
+      "role": "VPN gateway",
+      "critical": true
+    },
+    "fileserver01": {
+      "role": "file server",
+      "critical": true
+    },
+    "scanner01": {
+      "role": "authorized vulnerability scanner",
+      "ip": "10.20.0.50",
+      "authorized_scanner": true,
+      "critical": false
+    },
+    "srv01": {
+      "role": "application server",
+      "critical": false
+    },
+    "srv02": {
+      "role": "application server",
+      "critical": false
+    },
+    "srv03": {
+      "role": "application server",
+      "critical": false
+    },
+    "srv04": {
+      "role": "application server",
+      "critical": false
+    },
+    "ws-ahmed": {
+      "role": "employee workstation",
+      "owner": "ahmed",
+      "critical": false
+    },
+    "ws-sara": {
+      "role": "employee workstation",
+      "owner": "sara",
+      "critical": false
+    },
+    "ws-khalid": {
+      "role": "employee workstation",
+      "owner": "khalid",
+      "critical": false
+    },
+    "ws-noura": {
+      "role": "employee workstation",
+      "owner": "noura",
+      "critical": false
+    },
+    "ws-omar": {
+      "role": "employee workstation",
+      "owner": "omar",
+      "critical": false
+    },
+    "ws-lina": {
+      "role": "employee workstation",
+      "owner": "lina",
+      "critical": false
+    },
+    "ws-faisal": {
+      "role": "employee workstation",
+      "owner": "faisal",
+      "critical": false
+    },
+    "ws-huda": {
+      "role": "employee workstation",
+      "owner": "huda",
+      "critical": false
+    },
+    "ws-yazan": {
+      "role": "employee workstation",
+      "owner": "yazan",
+      "critical": false
+    },
+    "ws-reem": {
+      "role": "employee workstation",
+      "owner": "reem",
+      "critical": false
+    },
+    "ws-tariq": {
+      "role": "employee workstation",
+      "owner": "tariq",
+      "critical": false
+    },
+    "ws-maha": {
+      "role": "employee workstation",
+      "owner": "maha",
+      "critical": false
+    },
+    "ws-salem": {
+      "role": "employee workstation",
+      "owner": "salem",
+      "critical": false
+    },
+    "ws-dana": {
+      "role": "employee workstation",
+      "owner": "dana",
+      "critical": false
+    },
+    "ws-nawaf": {
+      "role": "employee workstation",
+      "owner": "nawaf",
+      "critical": false
+    }
+  },
+  "users": {
+    "ahmed": {
+      "role": "employee",
+      "department": "operations"
+    },
+    "sara": {
+      "role": "employee",
+      "department": "operations"
+    },
+    "khalid": {
+      "role": "employee",
+      "department": "operations"
+    },
+    "noura": {
+      "role": "employee",
+      "department": "operations"
+    },
+    "omar": {
+      "role": "employee",
+      "department": "operations"
+    },
+    "lina": {
+      "role": "employee",
+      "department": "operations"
+    },
+    "faisal": {
+      "role": "employee",
+      "department": "operations"
+    },
+    "huda": {
+      "role": "employee",
+      "department": "operations"
+    },
+    "yazan": {
+      "role": "employee",
+      "department": "operations"
+    },
+    "reem": {
+      "role": "employee",
+      "department": "operations"
+    },
+    "tariq": {
+      "role": "employee",
+      "department": "operations"
+    },
+    "maha": {
+      "role": "employee",
+      "department": "operations"
+    },
+    "salem": {
+      "role": "employee",
+      "department": "operations"
+    },
+    "dana": {
+      "role": "employee",
+      "department": "operations"
+    },
+    "nawaf": {
+      "role": "employee",
+      "department": "operations"
+    },
+    "admin": {
+      "role": "domain administrator",
+      "protected": true
+    },
+    "root": {
+      "role": "system superuser",
+      "protected": true
+    },
+    "svc_backup": {
+      "role": "backup service account",
+      "protected": true
+    }
+  },
+  "protected": {
+    "hosts": [
+      "dc01",
+      "mail01",
+      "vpn01",
+      "fileserver01"
+    ],
+    "users": [
+      "admin",
+      "root",
+      "svc_backup"
+    ],
+    "ips": [
+      "10.20.0.1",
+      "10.20.0.53",
+      "10.20.0.50"
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+[project]
+name = "ir-agent"
+version = "0.1.0"
+description = "Cybersecurity incident response agent (capstone project)"
+requires-python = ">=3.11"
+dependencies = [
+    "openai>=1.40",
+    "mcp>=1.2,<2",
+    "python-dotenv>=1.0",
+    "fastapi>=0.115",
+    "uvicorn[standard]>=0.30",
+]
+
+[dependency-groups]
+dev = ["pytest>=8"]
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]

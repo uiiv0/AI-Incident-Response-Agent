@@ -1,0 +1,8 @@
+2026-10-27T09:00:30 host=mail01 event=email_delivered user=sara sender=it-support@account-verify-2.example subject="Urgent: verify your account now" url=http://account-verify-2.example/login
+2026-10-27T09:02:04 src=10.20.1.197 host=vpn01 user=maha event=login status=success ua=Mozilla/5.0
+2026-10-27T09:03:11 src=10.20.1.79 host=vpn01 user=huda event=login status=success ua=Mozilla/5.0
+2026-10-27T09:10:34 src=10.20.1.175 host=vpn01 user=reem event=login status=success ua=Mozilla/5.0
+2026-10-27T09:15:00 src=10.20.1.158 host=ws-sara user=sara event=http_request dest=203.0.113.25 domain=account-verify-2.example method=GET path=/login status=allowed ua=Mozilla/5.0
+2026-10-27T09:15:03 src=10.20.1.158 host=ws-sara user=sara event=http_request dest=203.0.113.25 domain=account-verify-2.example method=GET path=/login.php status=allowed ua=Mozilla/5.0
+2026-10-27T09:15:34 src=10.20.1.27 host=vpn01 user=dana event=login status=success ua=Mozilla/5.0
+2026-10-27T09:23:47 src=10.20.1.180 host=vpn01 user=sara event=login status=success ua=Mozilla/5.0

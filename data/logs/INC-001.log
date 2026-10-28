@@ -1,0 +1,15 @@
+2026-10-27T09:01:00 src=203.0.113.130 host=vpn01 user=nawaf event=login status=failed ua=python-requests/2.31
+2026-10-27T09:01:08 src=203.0.113.130 host=vpn01 user=nawaf event=login status=failed ua=python-requests/2.31
+2026-10-27T09:01:16 src=203.0.113.130 host=vpn01 user=nawaf event=login status=failed ua=python-requests/2.31
+2026-10-27T09:01:23 src=203.0.113.130 host=vpn01 user=nawaf event=login status=failed ua=python-requests/2.31
+2026-10-27T09:01:26 src=203.0.113.130 host=vpn01 user=nawaf event=login status=failed ua=python-requests/2.31
+2026-10-27T09:01:33 src=203.0.113.130 host=vpn01 user=nawaf event=login status=failed ua=python-requests/2.31
+2026-10-27T09:01:40 src=203.0.113.130 host=vpn01 user=nawaf event=login status=failed ua=python-requests/2.31
+2026-10-27T09:01:41 src=10.20.1.66 host=vpn01 user=ahmed event=login status=success ua=Mozilla/5.0
+2026-10-27T09:01:46 src=203.0.113.130 host=vpn01 user=nawaf event=login status=success ua=python-requests/2.31
+2026-10-27T09:02:31 src=203.0.113.130 host=mail01 user=nawaf event=mailbox_rule_created status=success rule="forward all mail to external address"
+2026-10-27T09:03:01 src=203.0.113.130 host=fileserver01 user=nawaf event=bulk_download status=success files=412
+2026-10-27T09:04:01 src=10.20.1.156 host=vpn01 user=omar event=login status=success ua=Mozilla/5.0
+2026-10-27T09:14:18 src=10.20.1.46 host=vpn01 user=yazan event=login status=success ua=Mozilla/5.0
+2026-10-27T09:19:00 src=10.20.1.44 host=vpn01 user=omar event=login status=success ua=Mozilla/5.0
+2026-10-27T09:19:07 src=10.20.1.184 host=vpn01 user=khalid event=login status=success ua=Mozilla/5.0

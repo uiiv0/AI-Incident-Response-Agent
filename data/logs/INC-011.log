@@ -1,0 +1,18 @@
+2026-10-27T09:00:10 src=10.20.0.50 host=srv03 user=tariq event=login status=failed service=rdp ua=rdp-client
+2026-10-27T09:00:12 src=10.20.0.50 host=srv02 user=reem event=login status=failed service=rdp ua=rdp-client
+2026-10-27T09:00:14 src=10.20.0.50 host=srv02 user=salem event=login status=failed service=rdp ua=rdp-client
+2026-10-27T09:00:16 src=10.20.0.50 host=srv02 user=dana event=login status=failed service=rdp ua=rdp-client
+2026-10-27T09:00:18 src=10.20.0.50 host=srv04 user=maha event=login status=failed service=rdp ua=rdp-client
+2026-10-27T09:00:20 src=10.20.0.50 host=srv02 user=noura event=login status=failed service=rdp ua=rdp-client
+2026-10-27T09:00:22 src=10.20.0.50 host=srv04 user=lina event=login status=failed service=rdp ua=rdp-client
+2026-10-27T09:00:24 src=10.20.0.50 host=srv01 user=ahmed event=login status=failed service=rdp ua=rdp-client
+2026-10-27T09:00:26 src=10.20.0.50 host=srv03 user=huda event=login status=failed service=rdp ua=rdp-client
+2026-10-27T09:00:28 src=10.20.0.50 host=srv03 user=noura event=login status=failed service=rdp ua=rdp-client
+2026-10-27T09:00:30 src=10.20.0.50 host=srv03 user=huda event=login status=failed service=rdp ua=rdp-client
+2026-10-27T09:00:32 src=10.20.0.50 host=srv03 user=lina event=login status=failed service=rdp ua=rdp-client
+2026-10-27T09:00:34 src=10.20.0.50 host=srv01 user=noura event=login status=failed service=rdp ua=rdp-client
+2026-10-27T09:00:36 src=10.20.0.50 host=srv01 user=noura event=login status=failed service=rdp ua=rdp-client
+2026-10-27T09:06:58 src=10.20.1.133 host=vpn01 user=reem event=login status=success ua=Mozilla/5.0
+2026-10-27T09:16:02 src=10.20.1.60 host=vpn01 user=lina event=login status=success ua=Mozilla/5.0
+2026-10-27T09:20:49 src=10.20.1.10 host=vpn01 user=huda event=login status=success ua=Mozilla/5.0
+2026-10-27T09:22:17 src=10.20.1.98 host=vpn01 user=salem event=login status=success ua=Mozilla/5.0

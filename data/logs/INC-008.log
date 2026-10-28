@@ -1,0 +1,19 @@
+2026-10-27T09:00:01 src=10.20.1.13 host=ws-tariq user=tariq event=http_request dest=198.51.100.56 domain=update-check-2.example method=POST bytes=128 status=allowed ua=curl/7.68.0
+2026-10-27T09:01:02 src=10.20.1.13 host=ws-tariq user=tariq event=http_request dest=198.51.100.56 domain=update-check-2.example method=POST bytes=128 status=allowed ua=curl/7.68.0
+2026-10-27T09:01:50 src=10.20.1.126 host=vpn01 user=nawaf event=login status=success ua=Mozilla/5.0
+2026-10-27T09:02:00 src=10.20.1.13 host=ws-tariq user=tariq event=http_request dest=198.51.100.56 domain=update-check-2.example method=POST bytes=128 status=allowed ua=curl/7.68.0
+2026-10-27T09:03:01 src=10.20.1.13 host=ws-tariq user=tariq event=http_request dest=198.51.100.56 domain=update-check-2.example method=POST bytes=128 status=allowed ua=curl/7.68.0
+2026-10-27T09:04:01 src=10.20.1.13 host=ws-tariq user=tariq event=http_request dest=198.51.100.56 domain=update-check-2.example method=POST bytes=128 status=allowed ua=curl/7.68.0
+2026-10-27T09:05:00 src=10.20.1.13 host=ws-tariq user=tariq event=http_request dest=198.51.100.56 domain=update-check-2.example method=POST bytes=128 status=allowed ua=curl/7.68.0
+2026-10-27T09:06:00 src=10.20.1.13 host=ws-tariq user=tariq event=http_request dest=198.51.100.56 domain=update-check-2.example method=POST bytes=128 status=allowed ua=curl/7.68.0
+2026-10-27T09:07:01 src=10.20.1.13 host=ws-tariq user=tariq event=http_request dest=198.51.100.56 domain=update-check-2.example method=POST bytes=128 status=allowed ua=curl/7.68.0
+2026-10-27T09:08:02 src=10.20.1.13 host=ws-tariq user=tariq event=http_request dest=198.51.100.56 domain=update-check-2.example method=POST bytes=128 status=allowed ua=curl/7.68.0
+2026-10-27T09:09:01 src=10.20.1.13 host=ws-tariq user=tariq event=http_request dest=198.51.100.56 domain=update-check-2.example method=POST bytes=128 status=allowed ua=curl/7.68.0
+2026-10-27T09:10:02 src=10.20.1.13 host=ws-tariq user=tariq event=http_request dest=198.51.100.56 domain=update-check-2.example method=POST bytes=128 status=allowed ua=curl/7.68.0
+2026-10-27T09:11:02 src=10.20.1.13 host=ws-tariq user=tariq event=http_request dest=198.51.100.56 domain=update-check-2.example method=POST bytes=128 status=allowed ua=curl/7.68.0
+2026-10-27T09:12:01 src=10.20.1.13 host=ws-tariq user=tariq event=http_request dest=198.51.100.56 domain=update-check-2.example method=POST bytes=128 status=allowed ua=curl/7.68.0
+2026-10-27T09:13:00 src=10.20.1.13 host=ws-tariq user=tariq event=http_request dest=198.51.100.56 domain=update-check-2.example method=POST bytes=128 status=allowed ua=curl/7.68.0
+2026-10-27T09:13:35 src=10.20.1.112 host=vpn01 user=faisal event=login status=success ua=Mozilla/5.0
+2026-10-27T09:22:21 src=10.20.1.183 host=vpn01 user=salem event=login status=success ua=Mozilla/5.0
+2026-10-27T09:23:13 src=10.20.1.153 host=vpn01 user=faisal event=login status=success ua=Mozilla/5.0
+2026-10-27T09:23:34 src=10.20.1.141 host=vpn01 user=reem event=login status=success ua=Mozilla/5.0
